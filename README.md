@@ -8,7 +8,7 @@
 
 # 👋 Hey, I'm Abhishek Jaiswal
 
-💻 A **self-taught Web Developer** from India 🇮🇳  
+💻 A **self-taught Developer** from India 🇮🇳  
 ✨ Developer by **logic**, creator by **passion**  
 
 ---
@@ -24,8 +24,8 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb" />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vite,npm,vercel," />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,sql,supabase" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vite,npm,vercel,php,html,css,react native" />
 </p>
 
 
