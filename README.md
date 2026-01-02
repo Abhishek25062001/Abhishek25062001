@@ -1,7 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://abhishek-jaiswal-link-hub.netlify.app/">
-    <img width="80%" alt="Hello, I'm Abhsiheka Jaiswal. Developer by logic, creator by passion!" src="./assets/gh-readme-header.png" />
   </a>
 </p>
 
