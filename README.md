@@ -24,9 +24,10 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,sql,supabase" />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vite,npm,vercel,php,html,css,react native" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,supabase,git,github-dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,npm,vercel,php,html,css,reactnative" />
 </p>
+
 
 
 
