@@ -1,47 +1,82 @@
-# Hi there! 👋 Welcome to my GitHub Profile
+# 👋 Hi, I'm Abhishek Jaiswal
 
-I'm **Abhishek** - a passionate full-stack developer with a keen interest in building innovative web and mobile applications.
+### React Native Specialist & Mobile-Focused Full-Stack Engineer
 
-## 🚀 About Me
-- 💻 Full-Stack Developer with expertise in **React**, **Node.js**, and **3D Web Technologies**
-- 🎨 Enthusiast of creative web experiences and interactive UI/UX
-- 🔧 Skilled in developing scalable applications and backend systems
-- 🌐 Interested in emerging technologies and modern development practices
+I build production-ready mobile applications, scalable backend systems,
+admin dashboards, and digital products.
 
-## 💼 My Projects
-
-### Featured Projects
-- **3D Chair Website AI** - Interactive 3D visualization web application
-- **3D Dog React** - 3D model rendering with React
-- **Iron Man Website 3D** - Immersive 3D web experience
-- **Video Portfolio** - Personal portfolio showcasing my work
-- **Uber App Project** - Full-stack ride-sharing application
-- **Hand Gesture Project** - Computer vision application using hand gesture recognition
-- **QR Menu Restaurant** - Digital menu system for restaurants
-- **Dhobi Project** - Laundry management service application
-- **Platina Consultant** - Consultant booking platform
-- **Bharat Job** - Job portal platform
-
-## 🛠️ Tech Stack
-- **Frontend**: React, Three.js, Expo (React Native)
-- **Backend**: Node.js, Express
-- **Databases**: MongoDB, Firebase
-- **Tools & Technologies**: Git, GitHub, Payment Gateways (PhonePe)
-
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishek25062001&show_icons=true&theme=radical)](https://github.com/Abhishek25062001)
-
-## 🌟 Skills
-- Web Development
-- Mobile App Development
-- 3D Web Graphics
-- Full-Stack Development
-- UI/UX Implementation
-- API Development
-
-## 📫 Get in Touch
-- GitHub: [@Abhishek25062001](https://github.com/Abhishek25062001)
-- Feel free to reach out for collaboration or exciting projects!
+I enjoy working across the entire product lifecycle — from UI and mobile
+architecture to APIs, databases, payments, cloud deployment, and production
+infrastructure.
 
 ---
-*Last updated: 2026* ✨
+
+## 🚀 What I Build
+
+- 📱 React Native mobile applications
+- ⚛️ React & modern frontend experiences
+- 🧩 Node.js / Express backend systems
+- 🗄️ MongoDB & database-driven applications
+- ☁️ AWS deployment & production infrastructure
+- 🔐 Authentication & authorization
+- 💳 Payment integrations
+- 🔔 Firebase notifications
+- 🎥 Live streaming & media systems
+- 📊 Admin dashboards & management systems
+
+---
+
+## 🛠 Tech Stack
+
+### Mobile
+React Native · TypeScript · React Navigation · Zustand
+
+### Frontend
+React · Next.js · JavaScript · TypeScript
+
+### Backend
+Node.js · Express · MongoDB · Mongoose · REST APIs
+
+### Cloud & Services
+AWS · Firebase · Cloudinary · Redis
+
+### Payments & Integrations
+Razorpay · API Integrations · Authentication
+
+---
+
+## 🌟 Featured Projects
+
+### 🛕 Mandir Live
+Live temple darshan and puja booking ecosystem.
+
+**Includes:**
+Live Streaming · Puja Booking · Subscriptions · Donations ·
+Notifications · Ads · Admin Dashboard · Backend APIs
+
+### 🌍 HerExpedition
+Travel and expedition platform with booking, subscriptions,
+reviews and administrative workflows.
+
+### 🌾 Noida Farms
+Farmhouse booking platform with customer booking,
+availability management and vendor/admin workflows.
+
+### 🛕 ISKCON
+Temple-focused web platform with modern frontend experiences
+and supporting backend systems.
+
+---
+
+## 📈 GitHub Activity
+
+I actively build and maintain software across mobile,
+frontend, backend and cloud infrastructure.
+
+---
+
+## 🌐 Connect With Me
+
+[Portfolio](https://abhishek-jaiswal.net/)
+
+[LinkedIn](https://www.linkedin.com/in/abhishekj-t800/)
