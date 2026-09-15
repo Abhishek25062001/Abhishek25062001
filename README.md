@@ -77,6 +77,6 @@ frontend, backend and cloud infrastructure.
 
 ## 🌐 Connect With Me
 
-[Portfolio](https://abhishek-jaiswal.net/)
+[Portfolio](https://abhishekjaiswal.net/)
 
 [LinkedIn](https://www.linkedin.com/in/abhishekj-t800/)
